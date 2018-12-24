@@ -6,7 +6,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "flow": "flow",
-    "glow": "glow"
+    "glow": "glow",
+    "eslint": "eslint"
   },
   "devDependencies": {
     "eslint-config-fbjs": "^2.1.0",
